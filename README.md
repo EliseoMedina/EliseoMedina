@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy EmDevX </h1>
-⭐ Aspirante al desarrollo de software.<br><br>. 🖥️ Estudiante de Ingeniería de Sistemas<br>. 👨‍💻Desarrollo web y móvil.<br>. 📱 Interés en la Programación.<br>. 🌐Aspirante a Desarrollador FullStack.<br>
+⭐ Aspirante al desarrollo de software.<br>. 🖥️ Estudiante de Ingeniería de Sistemas<br>. 👨‍💻Desarrollo web y móvil.<br>. 📱 Interés en la Programación.<br>. 🌐Aspirante a Desarrollador FullStack.<br>
 
 
 ## 🌐 Socials:
