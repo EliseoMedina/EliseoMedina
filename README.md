@@ -1,15 +1,15 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Eliseo Medina</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eliseo Medina</h1>
 
-<p>
-⭐ Aspirante a Ingeniería de Datos<br>
-🖥️ Estudiante de Ingeniería de Sistemas e Informática<br>
-🚀 Apasionado por Data Science, Cloud Computing, AI & Machine Learning<br>
-👨‍💻 Explorando el mundo del Machine Learning y la automatización inteligente<br>
+<p align="center">
+⭐ Aspiring Data Engineer<br>
+🖥️ Systems & Informatics Engineering Student<br>
+🚀 Passionate about Data Science, Cloud Computing, AI & Machine Learning<br>
+👨‍💻 Exploring the world of intelligent automation and predictive modeling<br>
 </p>
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EmDevX)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseo-medina/)  
@@ -43,14 +43,14 @@
 
 ---
 
-## 🔝 Repositorios Destacados
+## 🔝 Top Contributed Repositories
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=EmDevX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📈 Visitantes
+## 📈 Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=EmDevX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
