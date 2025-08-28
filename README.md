@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eliseo Medina</h1>
 
-<p align="center">
+<p>
 ⭐ Aspiring Data Engineer<br>
 🖥️ Systems & Informatics Engineering Student<br>
 🚀 Passionate about Data Science, Cloud Computing, AI & Machine Learning<br>
